@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👋 ¡Hola! Soy un **Machine Learning Engineer** apasionado por resolver problemas complejos mediante el uso de inteligencia artificial y aprendizaje automático. Mi enfoque principal es en la implementación de modelos de visión por computadora, procesamiento de lenguaje natural y sistemas de recomendación. Con experiencia en la creación de soluciones escalables y eficientes, mi objetivo es aprovechar el poder de los datos para generar un impacto positivo en las organizaciones.
+👋 ¡Hola! Soy un **Machine Learning Engineer** apasionado por resolver problemas complejos mediante el uso de inteligencia artificial y aprendizaje automático. Mi enfoque principal es en la implementación de modelos de visión por computadora y procesamiento de lenguaje natural y aplicarlos en tareas practicas. Tengo experiencia en la creación de soluciones escalables y eficientes, mi objetivo es aprovechar el poder de los datos para generar un impacto positivo en las organizaciones.
 
 ## 🔧 Áreas de especialización
 - Modelado predictivo y análisis de datos

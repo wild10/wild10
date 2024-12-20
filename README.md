@@ -14,13 +14,8 @@
 ## 📂 Proyectos destacados
 - **[Detección de Objetos con YOLOv8](URL_a_proyecto):** Desarrollo y optimización de un modelo de YOLOv8 para la detección de alimentos en imágenes, con el objetivo de mejorar la eficiencia en la clasificación de productos para la industria alimentaria.
 - **[Segmentación de Frames](URL_a_proyecto):** Creación de un modelo de segmentación para identificar partes de zonas de juego usando video streaming, utilizando redes neuronales convolucionales.
-
-## 🚀 Enfoque de trabajo
-- Implementación de soluciones iterativas y basadas en experimentación
-- Mejora continua del rendimiento de los modelos a través de optimizaciones de hiperparámetros
-- Automatización de tareas repetitivas usando **Python** y **Bash scripting**
-- Trabajo colaborativo en equipos multidisciplinarios, comunicando resultados técnicos de forma clara y efectiva
-
+- **[LLMs fine-tunning](url_proyect):** Promp Engineering y afinamiento de modelos de lenguage largo para resumir texto.
+- **[LLMs with RAG  & Agents](url_proyect):** Uso de los Modelos de lenguage largos con capacidad de razonamiento y ejecucion de procesos a partir de una consulta particular.
 ## 📫 Conéctate conmigo
 Si quieres colaborar o tienes alguna pregunta, no dudes en contactarme.
 

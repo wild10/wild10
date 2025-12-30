@@ -17,9 +17,9 @@ Ingeniero de IA/ML con más de 4 años de experiencia en el desarrollo de sistem
 - Procesamiento de grandes volúmenes de datos usando **Apache Spark** y **Pandas**
 - Despliegue de modelos en producción con **Docker**, **Apptainer** y gestión kubernetes
 
-## 📂 Proyectos destacados
-- **[Detección de Objetos con YOLOv8](URL_a_proyecto):** Desarrollo y optimización de un modelo de YOLOv8 para la detección de alimentos en imágenes, con el objetivo de mejorar la eficiencia en la clasificación de productos para la industria alimentaria.
-- **[LLMs fine-tunning](url_proyect):** Promp Engineering y afinamiento de modelos de lenguage largo para resumir texto.
+## 📂 Proyectos y Portafolio
+- **[Detección de Objetos con YOLOv8](https://wild10.github.io/projects/3_project/):** Desarrollo y optimización de un modelo de YOLOv8 para la detección de alimentos en imágenes, con el objetivo de mejorar la eficiencia en la clasificación de productos para la industria alimentaria.
+- **[LLMs fine-tunning](https://github.com/wild10/wild10/blob/main/LLMs/Lab_2_fine_tune_generative_ai_model.ipynb):** Promp Engineering y afinamiento de modelos de lenguage largo para resumir texto.
 - **[LLMs with RAG  & Agents](https://github.com/wild10/Rag_ChatbotAI):** Uso de los Modelos de lenguage largos con capacidad de razonamiento y ejecucion de procesos a partir de una consulta particular.
 ## 📫 Conéctate conmigo
 Si quieres colaborar o tienes alguna pregunta, no dudes en contactarme.

@@ -1,3 +1,8 @@
+<p align="right">
+  <a href="README.md">English</a> | 
+  <a href="README.es.md">Español</a>
+</p>
+
 ## Hola soy Errol W. Mamani👋
 
 Ingeniero de IA/ML con más de 4 años de experiencia en el desarrollo de sistemas basados ​​en Visión Artificial, Procesamiento de Lenguage Natural y LLMs. Especializado en MLOps, implementación de modelos escalables, arquitecturas en la nube (AWS y Azure) y desarrollo integral de productos de IA. Experiencia en la integración de pipelines de Python y C++, la optimización del proceso de entrenamiento con CUDA/GPU y la implementación de sistemas de visión artificial y chatbots en tiempo real con baja latencia. Apasionado por GenAI, los sistemas agénticos y el aprendizaje automático aplicado.

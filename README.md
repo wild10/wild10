@@ -29,6 +29,6 @@ Specialized in Computer Vision, LLMs & scalable ML systems
 - 🔹 **End-to-end ML Pipeline (Docker + FastAPI)**
 
 ## 📫 Contact
-- LinkedIn: 
+- LinkedIn: [ewilderd](https://www.linkedin.com/in/ewilderd/)
 - Email: wildr.10@gmail.com
 

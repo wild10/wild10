@@ -3,41 +3,32 @@
   <a href="README.es.md">Español</a>
 </p>
 
-## Hi there 👋
+# 👋 Hi, I'm Errol W. Mamani
 
-Ingeniero de IA/ML con más de 4 años de experiencia en el desarrollo de sistemas basados ​​en Visión Artificial, Procesamiento de Lenguage Natural y LLMs. Especializado en MLOps, implementación de modelos escalables, arquitecturas en la nube (AWS y Azure) y desarrollo integral de productos de IA. Experiencia en la integración de pipelines de Python y C++, la optimización del proceso de entrenamiento con CUDA/GPU y la implementación de sistemas de visión artificial y chatbots en tiempo real con baja latencia. Apasionado por GenAI, los sistemas agénticos y el aprendizaje automático aplicado.
+AI Engineer / Machine Learning Engineer  
+Specialized in Computer Vision, LLMs & scalable ML systems
 
-## 🔧 Áreas de especialización
-- Diseño e implementación de **chatbots agénticos** con múltiples **LLMs**, enfocados en escalabilidad, latencia y observabilidad
-- Modelado predictivo y análisis de datos
-- Desarrollo de modelos de aprendizaje profundo con **PyTorch** y **TensorFlow**
-- Implementación de algoritmos de **YOLO** para detección de objetos
-- Fine-tuning de modelos preentrenados y transferencia de aprendizaje
-- Optimización de pipelines de ML en entornos **HPC** y **cloud**
-- Procesamiento de grandes volúmenes de datos usando **Apache Spark** y **Pandas**
-- Despliegue de modelos en producción con **Docker**, **Apptainer** y gestión kubernetes
+## 🚀 About me
+- AI Engineer with 4+ years of experience building ML pipelines
+- Experience in Computer Vision, LLMs and GenAI systems
+- Strong background in Python, PyTorch, cloud & HPC
+- Interested in research, production ML and scalable AI systems
 
-## 📂 Proyectos destacados
-- **[Detección de Objetos con YOLOv8](URL_a_proyecto):** Desarrollo y optimización de un modelo de YOLOv8 para la detección de alimentos en imágenes, con el objetivo de mejorar la eficiencia en la clasificación de productos para la industria alimentaria.
-- **[LLMs fine-tunning](url_proyect):** Promp Engineering y afinamiento de modelos de lenguage largo para resumir texto.
-- **[LLMs with RAG  & Agents](https://github.com/wild10/Rag_ChatbotAI):** Uso de los Modelos de lenguage largos con capacidad de razonamiento y ejecucion de procesos a partir de una consulta particular.
-## 📫 Conéctate conmigo
-Si quieres colaborar o tienes alguna pregunta, no dudes en contactarme.
+## 🔧 Technical Skills
+- Languages: Python, SQL, Bash
+- ML/DL: PyTorch, TensorFlow, scikit-learn
+- LLMs: LangChain, RAG, OpenAI, LLaMA
+- CV: YOLO, OpenCV
+- Data: Pandas, Spark
+- MLOps: Docker, Kubernetes, CI/CD
+- Cloud: AWS (S3, Lambda, EC2)
 
+## 📌 Featured Projects
+- 🔹 **Agentic LLM Chatbot (RAG + Pinecone)**
+- 🔹 **YOLO-based Video Object Detection**
+- 🔹 **End-to-end ML Pipeline (Docker + FastAPI)**
 
+## 📫 Contact
+- LinkedIn: 
+- Email: wildr.10@gmail.com
 
-
-<!--
-**wild10/wild10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

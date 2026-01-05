@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+    yolo-api:
+      image: read-opencv:1.0
+      container_name: yolo-api
+      ports:
+        - "8000:8000"
+      restart: unless-stopped
+      pull_policy: never   # ⚡ esto le dice a Compose que NO haga pull
+

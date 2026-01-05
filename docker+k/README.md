@@ -64,6 +64,8 @@ Despues de ejecutar exitosamente y ver la imagen creada con **docker images**
   curl http://localhost:8000/docs
  ```
 
+ - d --> modo desacoplado: no se carga en el terminal (segundo plano)
+
  ## run Cliente.
 
  ```bash
@@ -71,4 +73,19 @@ Despues de ejecutar exitosamente y ver la imagen creada con **docker images**
  cd Documents/wild10/docker+k
  python main.py
 
+ ```
+
+
+ ## usar orquestador de container: docker-compose
+
+ en vez de usar docker run -d ... usar : docker compuse up.
+
+ se crea al file docker-compose.yml <<--orquestador
+ 
+ ```bash
+ # Detener y eliminar container actual
+ docker stop yolo-api
+ docker rm yolo-api
+ # 
+  docker compose up -d
  ```

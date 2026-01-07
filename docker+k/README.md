@@ -86,6 +86,6 @@ Despues de ejecutar exitosamente y ver la imagen creada con **docker images**
  # Detener y eliminar container actual
  docker stop yolo-api
  docker rm yolo-api
- # 
+ # crear orquestador
   docker compose up -d
  ```

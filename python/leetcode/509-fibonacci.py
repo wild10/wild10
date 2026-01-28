@@ -1,6 +1,6 @@
 #///////////////////////////////////////
 #   509. Fibonacci Numbers
-#   author: wild10
+#   Author: wild10
 #///////////////////////////////////////
 
 ## writing the fuction fib recursive

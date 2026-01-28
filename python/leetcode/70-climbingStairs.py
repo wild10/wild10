@@ -1,6 +1,6 @@
 #///////////////////////////////////////
 #   70. Climbing Stairs
-#   author: wild10
+#   Author: wild10
 #///////////////////////////////////////
 
 memo = {}
@@ -22,6 +22,7 @@ def climb2 (n):
     
     memo[n] = climb2 (n - 1) + climb2 (n - 2)
     return memo[n]
+
 # main
 if __name__=='__main__':
     N = int(input())

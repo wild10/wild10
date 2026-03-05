@@ -15,16 +15,16 @@ Specialized in Computer Vision, LLMs & scalable ML systems
 - Interested in research, production ML and scalable AI systems
 
 ## 🔧 Technical Skills
-- Languages: Python, SQL, Bash
+- Languages: Python, SQL, Bash, c++.
 - ML/DL: PyTorch, TensorFlow, scikit-learn
-- LLMs: LangChain, RAG, OpenAI, LLaMA
-- CV: YOLO, OpenCV
-- Data: Pandas, Spark
-- MLOps: Docker, Kubernetes, CI/CD
-- Cloud: AWS (S3, Lambda, EC2)
+- LLMs: LangChain, LangGraph, MPC, Agentic workflow, SDK:RAG, OpenAI, LLaMA
+- CV: YOLO, OpenCV, Nvidia Jetpack, tensorRT, 
+- Data: Pandas, Spark, Numpy, PosgreSQL.
+- MLOps: Docker, Kubernetes, CI/CD, terraform.
+- Cloud: AWS (S3, Lambda, EC2, ECS), Azure AI foundry.
 
 ## 📌 Featured Projects
-- 🔹 **Agentic LLM Chatbot (RAG + Pinecone)**
+- 🔹 **Agentic Multi-LLM Chatbot (RAG + Pinecone)**
 - 🔹 **YOLO-based Video Object Detection**
 - 🔹 **End-to-end ML Pipeline (Docker + FastAPI)**
 

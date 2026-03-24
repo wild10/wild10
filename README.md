@@ -9,7 +9,7 @@ AI Engineer / Machine Learning Engineer
 Specialized in Computer Vision, LLMs & scalable ML systems
 
 ## 🚀 About me
-- AI Engineer with 4+ years of experience building ML pipelines
+- AI Engineer with 5+ years of experience building ML pipelines
 - Experience in Computer Vision, LLMs and GenAI systems
 - Strong background in Python, PyTorch, cloud & HPC
 - Interested in research, production ML and scalable AI systems

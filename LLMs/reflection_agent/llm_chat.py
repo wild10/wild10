@@ -15,9 +15,8 @@ llm = ChatOpenAI(
 prompt = ChatPromptTemplate.from_messages(
     [
         (
-            "system",
-            "Eres un asistenet experto y consiso que responde en español.",
-         ),
+            "system", "Eres un asistenet experto y consiso que responde en español.",
+        ),
         ( "user", "{pregunta}")
     ]
 )

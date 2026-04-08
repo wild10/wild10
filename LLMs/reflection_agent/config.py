@@ -3,9 +3,10 @@ import os
 
 from dotenv import load_dotenv
 
-# load env
+# Cargamos claves al entorno.
 load_dotenv()
 
+# recuperamos claves del entorno.
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 if not OPENAI_API_KEY:

@@ -20,8 +20,8 @@ reflection_prompt = ChatPromptTemplate.from_messages(
 generation_prompt = ChatPromptTemplate.from_messages(
     [
         (
-            "System",
-            "You are a twitter techie influence assistant tasked with writing excellent twitter posts.",
+            "system",
+            "You are a twitter techie influence assistant tasked with writing excellent twitter posts."
             "Generate the best  twitter post possible for the user's request."
             "If the user provides critique, respond with a revised version of your previous attempts.",
 
@@ -31,7 +31,7 @@ generation_prompt = ChatPromptTemplate.from_messages(
 )
 
 llm = ChatOpenAI(
-    model="gpt-4.1-mini",
+    model="gpt-4o-mini",
     api_key= OPENAI_API_KEY,
     temperature=0, 
 )   
